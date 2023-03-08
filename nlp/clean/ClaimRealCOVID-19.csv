@@ -1,0 +1,112 @@
+category,text
+REAL,Should children wear a mask?
+REAL,Are there situations where children aged 5 years and under may wear or be required to wear a mask?
+REAL,Should children with developmental disabilities wear masks?
+REAL,Should children who have health issues or a medical condition that compromises their immune system wear a mask?
+REAL,What type of mask should children wear?
+REAL,How should children wear a mask?
+REAL,Should a child wear a mask at home?
+REAL,Should teachers or other adults working with children wear a mask?
+REAL,Should children wear a mask when playing sports or doing physical activities?
+REAL,Are there alternatives to fabric masks such as face shields?
+REAL,What is contact tracing?
+REAL,How does contact tracing work?
+REAL,Who is defined as a contact?
+REAL,Can contact tracing help in controlling spread of the virus?
+REAL,When should contact tracing be implemented?
+REAL,What happens if you are a contact?
+REAL,Who is needed for successful contact tracing?
+REAL,What are the tools used for contact tracing?
+REAL,What should be considered for data protection?
+REAL,"Can I get COVID-19 from eating fresh foods, like fruits and vegetables?"
+REAL,How should I wash fruits and vegetables in the time of COVID-19?
+REAL,Can the virus that causes COVID-19 live on the surface of food packaging?
+REAL,"Can the virus that causes COVID-19 be transmitted through the consumption of cooked foods, including animal products?"
+REAL,Is it safe to go to grocery stores and other food markets?
+REAL,Is it safe to have groceries delivered?
+REAL,What is the best household disinfectant for surfaces?
+REAL,What foods should be consumed to support the immune system?
+REAL,Can micronutrient (vitamin and mineral) supplements prevent COVID-19 in healthy individuals or cure it in those with COVID-19 disease?
+REAL,Are vitamin D supplements needed if individuals are not exposed to sunlight due to lockdowns?
+REAL,Are there any herbal teas or herbal supplements that may help prevent or cure COVID-19?
+REAL,Can probiotics help prevent COVID-19?
+REAL,Can eating ginger help prevent COVID-19?
+REAL,Can eating garlic help prevent COVID-19?
+REAL,Can adding pepper to your soup or other meals help prevent or cure COVID-19?
+REAL,Can I get COVID-19 from food?
+REAL,"Can the virus live on the surface of foods (including fruits and vegetables, frozen foods, pre-packaged foods)?"
+REAL,"How to wash fruits and vegetables? Just with water, or something else?"
+REAL,Can the virus live on the surface of food packaging? How long? Is it necessary to disinfect?
+REAL,How long is it to cook food? To what temperature to kill the virus?
+REAL,What precautions should consumers take in grocery stores?
+REAL,Is food/grocery delivery safe?
+REAL,Is it still safe to go to food markets? Animal markets? Wet markets?
+REAL,Can someone who has tested positive for COVID-19 be cared for at home?
+REAL,What should be done to prevent other people in the house from becoming sick if a person with COVID-19 is being cared for at home?
+REAL,How long should people with COVID-19 stay at home and in isolation?
+REAL,When should a patient with COVID-19 be cared for at home?
+REAL,What factors determine whether a COVID-19 patient can be cared for at home?
+REAL,What additional factors should be taken into consideration when assessing the home setting to determine if it is safe for patients and families to remain at home?
+REAL,What precautions should health workers take when providing care to patients in home settings?
+REAL,Could pregnant women be cared for at home if they have COVID-19?
+REAL,Can children be cared for at home if they have COVID-19?
+REAL,How does COVID-19 spread between people?
+REAL,When do infected people transmit the virus?
+REAL,What is the difference between people who are asymptomatic or pre-symptomatic? Dont they both mean someone without symptoms?
+REAL,Are there certain settings where COVID-19 can spread more easily?
+REAL,How can I reduce my risk of getting COVID-19?
+REAL,How many malaria-affected countries have reported cases of COVID-19?
+REAL,Should core malaria vector control interventions be maintained in view of the rapid global spread of COVID-19?
+REAL,Should WHO-recommended preventive therapies be maintained in sub-Saharan Africa?
+REAL,Are there any changes to WHO guidance with respect to malaria diagnosis and treatment?
+REAL,What additional special measures may be needed in the context of COVID-19?
+REAL,What are the key considerations for countries that are working to eliminate malaria or prevent re-establishment of transmission?
+REAL,Why is WHO particularly concerned about the spread of COVID-19 in malaria-affected areas?
+REAL,Have there been disruptions in the global supply of key malaria-related commodities as a result of the COVID-19 pandemic?
+REAL,What is WHOs position on the use of chloroquine and hydroxychloroquine in the context of the COVID-19 response?
+REAL,What is WHOs position on the use of Artemisia plant material for the prevention or treatment of malaria and/or COVID-19?
+REAL,What is WHO doing to support malaria-affected countries in the context of COVID-19?
+REAL,"I am ATTENDING a small gathering or an event such as a wedding, a party or sports tournament. What precautions should I take to protect myself and others from getting infected with COVID-19?"
+REAL,"I am ORGANIZING a small gathering or an event such as a wedding, a party or sports tournament. What precautions should I take to prevent the spread of COVID-19 among guests?"
+REAL,What precautions should everyone take in a hotel or other accommodation establishment?
+REAL,Are pools and water areas safe to use?
+REAL,Are there precautions to take while eating in a restaurant?
+REAL,Is it safe to use fans or air conditioning in an accommodation?
+REAL,Can you get the virus from people who were in the room previous to you?
+REAL,What should travelers do if they get sick while at an accommodation facility?
+REAL,What precautions should I take during travel?
+REAL,Who should not travel?
+REAL,What is meant by essential travel?
+REAL,"If I feel well but am in the high-risk category, should I travel?"
+REAL,How can ventilation reduce the risk of contracting COVID-19 in airplanes?
+REAL,The travel company is asking me to wear a mask while traveling. Which kind of mask should I use?
+REAL,Should I get an immunity certificate before travelling?
+REAL,Could I be screened when I exit or arrive at my destination?
+REAL,Should I use a digital contact tracing app while traveling?
+REAL,Should I get a test before departure or upon arrival?
+REAL,What happens if I have symptoms when arriving at my destination?
+REAL,What should I do after arriving at my destination?
+REAL,What should I do if I get sick while traveling?
+REAL,What is ventilation?
+REAL,What is WHO doing to address ventilation in the context of COVID-19?
+REAL,Can I use air conditioning in the context of COVID-19?
+REAL,Can fans be used safely in indoor spaces?
+REAL,What are the recommended air ventilation requirements for health facilities?
+REAL,Can the use of air conditioning increase the risk of SARS-CoV-2 transmission in health facilities?
+REAL,Can fans be used in health facilities?
+REAL,What medical procedures are considered aerosol generating in health facilities?
+REAL,What steps can be undertaken to improve the ventilation in indoor public spaces and buildings?
+REAL,"Are there any recommendations for offices, schools and the accommodation sector regarding ventilation and air conditioning use?"
+REAL,What can staff do to stay safe while working at a hotel or other accommodation establishment?
+REAL,Should staff wear a mask while working?
+REAL,What should staff do if a guest becomes sick at an accommodation establishment?
+REAL,What should staff do if they have symptoms?
+REAL,Thermal scanners CANNOT detect COVID-19
+REAL,Drinking alcohol does not protect you against COVID-19 and can be dangerous
+REAL,Most people who get COVID-19 recover from it
+REAL,"The prolonged use of medical masks* when properly worn, DOES NOT cause CO2 intoxication nor oxygen deficiency"
+REAL,"The coronavirus disease (COVID-19) is caused by a virus, NOT by bacteria"
+REAL,The likelihood of shoes spreading COVID-19 is very low
+REAL,People should NOT wear masks while exercising 
+REAL,Studies show hydroxychloroquine does not have clinical benefits in treating COVID-19 
+REAL,Vitamin and mineral supplements cannot cure COVID-19
