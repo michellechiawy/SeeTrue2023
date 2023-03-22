@@ -5,9 +5,11 @@
 ### Running
 * bert_medium.ipynb for text training and evaluation
 
-### Remove Hyperlinks
-* process_data.ipynb to remove hyperlinks from data
+### Data Preprocessing
+* process_data.ipynb
+    * removes hyperlinks
+    * removes duplicates
 
-Raw data: input folder
+Raw data: [dirty folder](https://github.com/michellechiawy/SeeTrue2023/tree/master/nlp/dirty)
 
-Processed data: data folder
+Processed data: [clean folder](https://github.com/michellechiawy/SeeTrue2023/tree/master/nlp/clean)
