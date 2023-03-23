@@ -52,7 +52,7 @@ REAL,Could pregnant women be cared for at home if they have COVID-19?
 REAL,Can children be cared for at home if they have COVID-19?
 REAL,How does COVID-19 spread between people?
 REAL,When do infected people transmit the virus?
-REAL,What is the difference between people who are asymptomatic or pre-symptomatic? Dont they both mean someone without symptoms?
+REAL,What is the difference between people who are asymptomatic or pre-symptomatic? Dont they both mean someone without symptoms?
 REAL,Are there certain settings where COVID-19 can spread more easily?
 REAL,How can I reduce my risk of getting COVID-19?
 REAL,How many malaria-affected countries have reported cases of COVID-19?
@@ -63,8 +63,8 @@ REAL,What additional special measures may be needed in the context of COVID-19?
 REAL,What are the key considerations for countries that are working to eliminate malaria or prevent re-establishment of transmission?
 REAL,Why is WHO particularly concerned about the spread of COVID-19 in malaria-affected areas?
 REAL,Have there been disruptions in the global supply of key malaria-related commodities as a result of the COVID-19 pandemic?
-REAL,What is WHOs position on the use of chloroquine and hydroxychloroquine in the context of the COVID-19 response?
-REAL,What is WHOs position on the use of Artemisia plant material for the prevention or treatment of malaria and/or COVID-19?
+REAL,What is WHOs position on the use of chloroquine and hydroxychloroquine in the context of the COVID-19 response?
+REAL,What is WHOs position on the use of Artemisia plant material for the prevention or treatment of malaria and/or COVID-19?
 REAL,What is WHO doing to support malaria-affected countries in the context of COVID-19?
 REAL,"I am ATTENDING a small gathering or an event such as a wedding, a party or sports tournament. What precautions should I take to protect myself and others from getting infected with COVID-19?"
 REAL,"I am ORGANIZING a small gathering or an event such as a wedding, a party or sports tournament. What precautions should I take to prevent the spread of COVID-19 among guests?"
@@ -76,7 +76,7 @@ REAL,Can you get the virus from people who were in the room previous to you?
 REAL,What should travelers do if they get sick while at an accommodation facility?
 REAL,What precautions should I take during travel?
 REAL,Who should not travel?
-REAL,What is meant by essential travel?
+REAL,What is meant by essential travel?
 REAL,"If I feel well but am in the high-risk category, should I travel?"
 REAL,How can ventilation reduce the risk of contracting COVID-19 in airplanes?
 REAL,The travel company is asking me to wear a mask while traveling. Which kind of mask should I use?

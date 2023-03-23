@@ -1,5 +1,5 @@
 category,text
-REAL,How large does a meeting or event need to be in order to be a âmass gatheringâ?
+REAL,How large does a meeting or event need to be in order to be a mass gathering?
 REAL,Does WHO recommend that all international mass gatherings be cancelled because of COVID-19?
 REAL,What factors should organizers and health authorities look at when assessing whether the risks are acceptable or not?
 REAL,What if my organization does not have the expertise to assess the risks COVID-19 poses for our planned mass gathering?
@@ -41,10 +41,10 @@ REAL,How to wash fruits and vegetables in the time of COVID-19?
 REAL,Is COVID-19 airborne?
 REAL,Is contraception/ family planning safe to use during the COVID-19 pandemic?
 REAL,I want to avoid getting pregnant during the COVID-19 pandemic. What can I do?
-REAL,I canât access my contraceptive method of choice. What do you advise?
+REAL,I cant access my contraceptive method of choice. What do you advise?
 REAL,What is the best contraceptive method to use during the COVID-19 pandemic?
-REAL,I want to change my contraceptive method â is this possible?
-REAL,I want to remove or replace my implant or IUD â can I do this during COVID-19 pandemic?
+REAL,I want to change my contraceptive method  is this possible?
+REAL,I want to remove or replace my implant or IUD  can I do this during COVID-19 pandemic?
 REAL,"Why is providing contraception/ family planning, as well as family planning services and information, important during the COVID-19 pandemic?"
 REAL,I am a policy maker. What can I do to make sure people can access contraception and family planning information and services?
 REAL,I am a programme manager. What can I do to help people access contraception and family planning information and services?
@@ -79,13 +79,13 @@ REAL,Why is WHO particularly concerned about the spread of COVID-19 in malaria-a
 REAL,What are the key considerations for countries that are working to eliminate malaria or prevent re-establishment of transmission?
 REAL,Have there been disruptions in the global supply of key malaria-related commodities as a result of the COVID-19 pandemic?
 REAL,What is WHO doing to support malaria-affected countries in the context of COVID-19?
-REAL,What is WHOâs position on the use of chloroquine and hydroxychloroquine in the context of the COVID-19 response?
+REAL,What is WHOs position on the use of chloroquine and hydroxychloroquine in the context of the COVID-19 response?
 REAL,Are people living with HIV at increased risk of being infected with the virus that causes COVID-19?
 REAL,Can antiretrovirals be used to treat COVID-19?
 REAL,Can antiretrovirals be used to prevent COVID-19 infection?
 REAL,What studies on treatment and prevention of COVID-19 with antiretrovirals are being planned?
-REAL,What is WHOâs position on the use of antiretrovirals for the treatment of COVID-19?
-REAL,What is WHOâs position on use of corticosteroids for the treatment of COVID-19?
+REAL,What is WHOs position on the use of antiretrovirals for the treatment of COVID-19?
+REAL,What is WHOs position on use of corticosteroids for the treatment of COVID-19?
 REAL,"If countries use antiretrovirals for COVID-19, are there concerns about treatment shortages for people living with HIV?"
 REAL,How do we ensure human rights and reduce stigma and discrimination?
 REAL,How can programmes assure continued access to HIV services?
@@ -93,7 +93,7 @@ REAL,What is the role multi-month prescriptions and dispensing for antiretrovira
 REAL,Can pregnant or postpartum women living with HIV transmit the COVID-19 virus to their unborn child or infant?
 REAL,Should pregnant and breastfeeding women living with HIV with COVID-19 and their newborns be managed differently?
 REAL,Are pregnant women at higher risk from COVID-19?
-REAL,Iâm pregnant. How can I protect myself against COVID-19?
+REAL,Im pregnant. How can I protect myself against COVID-19?
 REAL,Should pregnant women be tested for COVID-19?
 REAL,Can COVID-19 be passed from a woman to her unborn or newborn baby?
 REAL,What care should be available during pregnancy and childbirth?
